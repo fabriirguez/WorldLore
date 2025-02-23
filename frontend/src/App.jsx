@@ -1,11 +1,8 @@
-import React from 'react';
-
 function App() {
   return (
-    <div style={{ textAlign: 'center', padding: '20px' }}>
-      <h1>WorldLore</h1>
-      <p>The smartest way to understand the world</p>
-      <button>Try WorldLore</button>
+    <div>
+      <h1>Welcome to WorldLore</h1>
+      <p>Your AI-powered global intelligence platform.</p>
     </div>
   );
 }
